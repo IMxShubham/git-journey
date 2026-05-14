@@ -1,2 +1,2 @@
 one
-lets learn git pop
+lets learn git revert
